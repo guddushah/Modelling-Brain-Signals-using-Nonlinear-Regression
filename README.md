@@ -10,3 +10,9 @@ listens to an advertisement narrated by a neutral voice, during the next 10 seco
 advertisement narrated by an emotional voice is played. The regression model you are asked to identify
 will measure the auditory-brain interaction and the effect of the emotional narration. The researchers
 hypothesise that the emotional narration will evoke an increased brain response
+
+Task 1: Preliminary data analysis
+
+Task 2: Regression – modelling the brain response (MEG) to a sound signal
+
+Task 3: Approximate Bayesian Computation (ABC)
